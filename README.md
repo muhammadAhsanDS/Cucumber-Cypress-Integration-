@@ -28,4 +28,4 @@ This project is designed to test various features of the **OrangeHRM** website, 
 1. Clone the repository:
    ```bash
    git clone https://github.com/muhammadAhsanDS/Cucumber-Cypress-Integration.git
-   cd Cypress-Cucumber-Integration
+   cd Cucumber-Cypress-Integration
