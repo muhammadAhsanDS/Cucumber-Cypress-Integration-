@@ -1,4 +1,4 @@
-# Cypress and Cucumber Integration for BDD
+# Cucumber and Cypress Integration for BDD
 
 This repository demonstrates a step-by-step guide to integrate **Cypress** with **Cucumber** for Behavior-Driven Development (BDD). It uses the **OrangeHRM** website as the application under test, showcasing real-world scenarios such as login, dashboard functionalities, and more.
 
